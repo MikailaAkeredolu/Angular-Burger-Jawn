@@ -14,7 +14,6 @@ https://app.pluralsight.com/library/courses/code-school-accelerating-through-ang
 - Pipes
 - buttons
 - htnml table
-- NO BOOTSTRAP YET!!!
 - Header and Footer
 
 ### Part 2 - Functionalities
@@ -29,3 +28,6 @@ https://app.pluralsight.com/library/courses/code-school-accelerating-through-ang
 - For your buttons
 - Table
 - Anything else you desire
+
+### Part 4 - Deploy to Heroku
+- Provide url
